@@ -1,11 +1,14 @@
-# Length-Converter    
+<img src="https://user-images.githubusercontent.com/84573770/131422254-7e828c24-2058-4990-9b69-4f87a3a5e9ef.png" alt="Logo" width="400" height="100">  
 
-<img src="https://user-images.githubusercontent.com/84573770/131422254-7e828c24-2058-4990-9b69-4f87a3a5e9ef.png" alt="Logo" width="500" height="200">  
+
+# Length-Converter    
 
 
 This is my Length Converter App designed and written in SwiftUI
 
+
 The app will generate the length output based on the input entered. Please check the ContentView for logic.
+
 
     Length Converter
 
