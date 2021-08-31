@@ -4,7 +4,7 @@
 
 This is my Length Converter App designed and written in SwiftUI
 
-I will include screenshots and gifs of the app
+The app will generate the length output based on the input entered. Please check the ContentView for logic.
 
     Length Converter
 
