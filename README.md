@@ -1,4 +1,4 @@
-# Length-Converter <img src="https://user-images.githubusercontent.com/84573770/131421090-791e6203-2916-4297-94e3-deea859067d5.png" alt="Logo" width="100" height="100">
+# Length-Converter <img src="https://user-images.githubusercontent.com/84573770/131421090-791e6203-2916-4297-94e3-deea859067d5.png" alt="Logo" width="25" height="25">
 
 This is my Length Converter App designed and written in SwiftUI
 
