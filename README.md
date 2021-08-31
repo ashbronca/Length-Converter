@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/84573770/131422254-7e828c24-2058-4990-9b69-4f87a3a5e9ef.png" alt="Logo" width="400" height="100">  
+<img src="https://user-images.githubusercontent.com/84573770/131422254-7e828c24-2058-4990-9b69-4f87a3a5e9ef.png" alt="Logo" width="400" height="200">  
 
 
 # Length-Converter    
