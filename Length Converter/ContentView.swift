@@ -50,7 +50,7 @@ struct ContentView: View {
                 }
                 Section(header: Text("Your convered number")) {
                     if finalNumber > 10 {
-                        Text("\(finalNumber, specifier: "%.2f")")
+                        Text("\(finalNumber, specifier: "%g")")
                     } else {
                         Text("\(finalNumber)")
                     }
