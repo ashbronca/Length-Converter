@@ -12,7 +12,7 @@ The app will generate the length output based on the input entered. Please check
 
     Length Converter
 
-<img src="https://user-images.githubusercontent.com/84573770/131420654-8c78c0e5-f83c-4b75-b3e4-e82c98935549.mov" alt="Length Converter" width="300" height="650">
+https://user-images.githubusercontent.com/84573770/131420654-8c78c0e5-f83c-4b75-b3e4-e82c98935549.mov
 
     Screen Shots
    
